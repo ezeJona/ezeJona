@@ -13,10 +13,9 @@ class AboutMe:
         self.name = "Jonathan Martinez"
         self.username = "@ezeJona"
         self.location = "Nicaragua"
-        self.role = "Full-stack Developer | Student"
+        self.role = "Computer Science Student | UNAN Managua"
         self.focus = ["Web Development", "Mobile App Developer", "Cybersecurity Enthusiast"]
-        self.technologies = ["HTML", "CSS", "JavaScript", "Sass", "bootstrap", "Flutter", "MySQL"]
-        self.learning = ["Pentesting", "Secure App Development", "DevOps"]
+        self.learning = ["Secure App Development"]
 
     def __str__(self):
         return f"{self.name} - Passionate about turning coffee into code"
