@@ -24,6 +24,7 @@ class AboutMe:
 me = AboutMe()
 print(me)
 ```
+
 <p align="center">
   <a href="mailto:26martinez.508@gmail.com">
     <img src="https://img.shields.io/badge/-26martinez.508@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
@@ -37,6 +38,10 @@ print(me)
 </p>
 
 ---
+<a href="https://github.com/ezeJona">
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ezeJona&layout=compact&langs_count=8&theme=algolia" align="right"/>
+</a>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -57,4 +62,5 @@ print(me)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=kalilinux&logoColor=blue)
+
 
