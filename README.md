@@ -8,18 +8,19 @@
 </p>
 
 ```python
-class AbhigyanTrips():
-    
-  def __init__(self):
-    self.name = "Abhigyan Tripathi";
-    self.username = "abhigyantrips";
-    self.location = "Mumbai, India";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
-  
-  def __str__(self):
-    return self.name
+class AboutMe:
+    def __init__(self):
+        self.name = "Jonathan Martinez"
+        self.username = "@ezeJona"
+        self.location = "Nicaragua"
+        self.role = "Full-stack Developer | Student"
+        self.focus = ["Web Development", "Mobile App Developer", "Cybersecurity Enthusiast"]
+        self.technologies = ["HTML", "CSS", "JavaScript", "Sass", "bootstrap", "Flutter", "MySQL"]
+        self.learning = ["Pentesting", "Secure App Development", "DevOps"]
 
-if __name__ == '__main__':
-    me = AbhigyanTrips()
+    def __str__(self):
+        return f"{self.name} - Passionate about turning coffee into code"
+
+me = AboutMe()
+print(me)
 ```
