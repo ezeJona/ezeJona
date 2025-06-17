@@ -23,6 +23,7 @@ class AboutMe:
 me = AboutMe()
 print(me)
 ```
+Soy un joven programador nicaragüense de 20 años con una pasión inmensa por la tecnología y el desarrollo de software. Me caracterizo por mi curiosidad constante, mis ganas de aprender cada día algo nuevo y mi motivación por destacar en todo lo que hago.
 
 <p align="center">
   <a href="mailto:26martinez.508@gmail.com">
